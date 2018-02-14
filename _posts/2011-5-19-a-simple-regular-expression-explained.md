@@ -7,8 +7,7 @@ categories: habari
 This is just for me, so please ignore this...
 
 I needed a regular expression and as I am NOT good at them, I dissected this one I got from <a href="https://twitter.com/#!/nickfitz">@nickfitz</a> and extended it a tad.
-<pre>
-<code>
+```
 // the expression
 ^([1-9]\d)+,?\d{0,2}
 
@@ -28,8 +27,7 @@ require zero times or more repeating of the above)
 ,?
 // some numbers can be none up to two
 \d{0,2}
-</code>
-</pre>
+```
 
 This should match:
 1

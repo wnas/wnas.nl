@@ -11,9 +11,3 @@ categories: habari
 This in interesting as it shows us that there are no truths set in stone, only points of view. In other words, keep asking questions...</li>
 <li><a href="http://keybr.com/">Learn how to type</a>, funny as I learned how to type way back. Not kept my previous speed and accuracy though.</li><li><a href="http://www.webmonkey.com/webmonkey/reference/special_characters/">Special Characters</a>, as I am not that bad that I know 'm all by heart.</li><li>
 <a href="http://www.webmonkey.com/webmonkey/reference/color_codes/">Color codes</a>, as you don't always want to open photoshop...</li><li>Another <a href="http://www.airbagindustries.com/archives/airbag/help.php">cry</a> for better <a href="http://fronteers.nl/vereniging/commissies/onderwijs">education</a>.</li></ol>
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/css" rel="tag">css</a>, <a href="http://technorati.com/tag/fronteers" rel="tag">fronteers</a>, <a href="http://technorati.com/tag/userinterfacedesign" rel="tag">userinterfacedesign</a>, <a href="http://technorati.com/tag/web" rel="tag">web</a>
-</p>
-<!-- Technorati Tags End -->

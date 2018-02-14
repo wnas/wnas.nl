@@ -9,8 +9,8 @@ categories: habari
 <p>I would illustrate the importance of this decision with a bit of history of the discussion, at the <a href="#history">bottom</a> of this page. But first go and agree with <a href="http://www.molly.com/2008/03/03/ie8-standards-mode-to-be-default/">molly</a> and CELEBRATE</p>
 <p>Well, it sure has been a busy month in web development land, starting on februari 22th when the IE8 team <a href="http://blogs.msdn.com/ie/archive/2008/01/21/compatibility-and-ie8.aspx">announced</a> that the default behaviour of IE8 would be to behave as IE7. If you don't understand, I will repeat it for you more slowly this time.</p>
 <p><strong style="letter-spacing: .5em; color: red;">Internet Explorer 8<br />would render pages as <br />Internet Explorer 7<br />in default mode</strong></p>
-<p>Yes, you read it correctly, in order to have ie8 behave as ie8, the original idea was that you had to insert a <q cite="Robert O'Callahan">&#60;META HTTP-EQUIV="X-BALL-CHAIN"&#62;</q>. Much is to say against it, as many did, but the basic reason for the IE team was (flawed) but admirable. They saw so many sites break during the transition of ie 6 to 7 that they wanted to ease the transtion. There is something to say in that the standards aware developer could easily go the extra distance to let <strong>IE 8</strong> be a good standards compliant browser</p><p>The downside of this was that many sites would not do this and the forward movement of the web would be slowed in the least. As the majority of web developers are not well educated and aware of standards, but frontpage using <strong>*^&%$#</strong>
-</p>
+<p>Yes, you read it correctly, in order to have ie8 behave as ie8, the original idea was that you had to insert a <q cite="Robert O'Callahan">&#60;META HTTP-EQUIV="X-BALL-CHAIN"&#62;</q>. Much is to say against it, as many did, but the basic reason for the IE team was (flawed) but admirable. They saw so many sites break during the transition of ie 6 to 7 that they wanted to ease the transtion. There is something to say in that the standards aware developer could easily go the extra distance to let <strong>IE 8</strong> be a good standards compliant browser</p><p>The downside of this was that many sites would not do this and the forward movement of the web would be slowed in the least. As the majority of web developers are not well educated and aware of standards, but frontpage using people
+
 <p>Needless to say, that some people were not amused in the web development community, to say the least. There were a couple of people for it, other were clearly against it, some were on the fence. I will give you a couple of responses, in case you haven't kept up with your reading the last month.</p>
 <ul id="history">
 <li><a href="http://blogs.msdn.com/ie/archive/2008/01/21/compatibility-and-ie8.aspx" rel="met">Chris Wilson</a></li>
@@ -25,9 +25,3 @@ categories: habari
 <li><a href="http://www.alistapart.com/articles/beyonddoctype">Aaron's article</a></li>
 <li><a href="http://www.alistapart.com/articles/fromswitchestotargets">eric's response</a></li>
 <li><a href="http://www.alistapart.com/issues/253">Zeldman vs Keith</a></li></ul>
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/css" rel="tag">css</a>, <a href="http://technorati.com/tag/html" rel="tag">html</a>, <a href="http://technorati.com/tag/Internet%20Explorer" rel="tag">Internet Explorer</a>, <a href="http://technorati.com/tag/w3c" rel="tag">w3c</a>
-</p>
-<!-- Technorati Tags End -->

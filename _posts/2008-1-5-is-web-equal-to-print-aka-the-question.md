@@ -32,9 +32,3 @@ categories: habari
 <p><a href="http://iswebequaltoprint.com/">the answer</a></p>
 <p>So take it from me, if you want a happy, productive web worker. Don't ever asume that you know the answer to <strong>The Question</strong> is anything other than I just provided for you.</p><p>We as web developers are being hired for our skill, so use it and ask us before you assume anything about your design.</p>
 <p><em>No project managers, graphic designers or user interface developers were harmed writing this post</em></p>
-<!-- Technorati Tags Start -->
-
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/browsers" rel="tag">browsers</a>, <a href="http://technorati.com/tag/css" rel="tag">css</a>, <a href="http://technorati.com/tag/fronteers" rel="tag">fronteers</a>, <a href="http://technorati.com/tag/html" rel="tag">html</a>, <a href="http://technorati.com/tag/w3c" rel="tag">w3c</a>
-</p>
-<!-- Technorati Tags End -->

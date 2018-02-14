@@ -27,10 +27,3 @@ So if you want stuff to work, go to <em>systeem/bibliotheek/extensions/IOSerialf
 </p>
 <p>So to conclude, some helpdesk people actually help you and here is a way to use the vodafone stuff on leopard. I hope that this helps someone...
 </p>
-
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/web" rel="tag">web</a>, <a href="http://technorati.com/tag/umts" rel="tag">umts</a>
-</p>
-<!-- Technorati Tags End -->

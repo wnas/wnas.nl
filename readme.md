@@ -22,3 +22,11 @@ how to build
 When it's build, you can do:
 
     jekyll serve --livereload
+
+What you really wanna do is...
+
+    jekyll build && jekyll serve --livereload
+
+If you want to check for broken links:
+
+    bundle exec htmlproofer ./_site/ --only-4xx

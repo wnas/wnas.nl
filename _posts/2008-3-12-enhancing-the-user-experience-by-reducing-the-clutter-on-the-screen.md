@@ -17,7 +17,7 @@ categories: habari
 <h3>How?</h3>
 <p>First you need to know the height of you viewport, for that we turn to the infamous <a href="http://www.quirksmode.org" rel="met"><abbr title="Peter-Paul Koch">PPK</abbr></a> with his script that does just that.For the script and the explanation I direct you to his page about this script which you can find on <a href="http://www.quirksmode.org/js/findpos.html">quirksmode</a>.</p>
 <p>We then use this script to see where on the page the link is. First we check if the link is one the page, only than we do something. We get the height of the viewport and the y-position of the link and calculate the difference. If the link is above the fold, we give it a class of <em>inViewPort</em>.</p>
-<pre><code>
+```
 >> = linebreak
 function hideScrollToTop(){
   // we start by seeking the height of the browser
@@ -41,15 +41,10 @@ function hideScrollToTop(){
     }
   }
 }
-</code></pre>
+```
 <p>In css we set the display of <em>inViewPort</em> to none and we are off.</p>
 <pre><code>
 .inViewPort {
   display: none;
 }</code></pre>
 <p>So there you have it a way of helping users by reducing visual clutter instead of putting up more stuff. You can find the script working on it's own demo <a href="http://www.wnas.nl/demo/scrollToTop.html">page</a>, with all of the javascript needed in the head. Go and play with it.</p>
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/css" rel="tag">css</a>, <a href="http://technorati.com/tag/html" rel="tag">html</a>, <a href="http://technorati.com/tag/userinterfacedesign" rel="tag">userinterfacedesign</a>, <a href="http://technorati.com/tag/web" rel="tag">web</a>
-</p>
-<!-- Technorati Tags End -->

@@ -8,7 +8,7 @@ We all know that IE is the most popular browser (for the moment...) and we all k
 What a lot of people do not know is how to use some bugs to solve others. I will show you how you can use IE's own bugs to solve other ones and still keep people with decent browsers happy...
 
 For this case suppose that you have an element that display right in Firefox and wrong in IE.
-You can than use the !important declaration to set the correct behaviour for FireFox and set the IE declaration below it. FireFox ignores the declaration below the !important as it is supposed to do, IE doesn't do anything with the !imporant attribute and uses the lowest declaration.
+You can than use the !important declaration to set the correct behaviour for FireFox and set the IE declaration below it. FireFox ignores the declaration below the !important as it is supposed to do, IE doesn't do anything with the !important attribute and uses the lowest declaration.
 
 Here is a test case you can use to test this behaviour.
 <code>.test {

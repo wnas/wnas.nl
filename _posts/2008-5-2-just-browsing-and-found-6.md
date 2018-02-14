@@ -9,9 +9,3 @@ categories: habari
 <li><a href="http://nedbatchelder.com/blog/200805/css_homer_animated.html">Homer simpson</a></li>
 <li><a href="http://dowebsitesneedtolookexactlythesameineverybrowser.com/">does web site need to look the same in every browser.</a></li>
 <li><a href="http://isitafuckingirritatingbrowser.com/">is it IE...</a></li><li><a href="http://iswebequaltoprint.com/">is web equal to print</a></li></ul><p>I will put up a decent post when deadline season is over. Should be in a couple of weeks...</p>
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/browsers" rel="tag">browsers</a>, <a href="http://technorati.com/tag/css" rel="tag">css</a>, <a href="http://technorati.com/tag/Internet%20Explorer" rel="tag">Internet Explorer</a>
-</p>
-<!-- Technorati Tags End -->

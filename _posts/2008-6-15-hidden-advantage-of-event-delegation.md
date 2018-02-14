@@ -28,9 +28,3 @@ jQuery('body').click(jQuery.delegate({
 <li><a href="http://www.quirksmode.org/blog/archives/2008/04/delegating_the.html">And ofcourse ppk goes over the top...</a></li>
 </ul>
 <p><em>Here are the files I used for testing, first the <a href="http://www.wnas.nl/files/eventdelegation/is.html" title="is.html">inline scripting example</a>, than the <a href="http://www.wnas.nl/files/eventdelegation/oj.html" title="oj.html">unobtrusive javascript one</a> and last but not least the one with <a href="http://www.wnas.nl/files/eventdelegation/ed.html" title="ed.html">event delegation</a>, have fun researching...</em></p>
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/javascript" rel="tag">javascript</a>, <a href="http://technorati.com/tag/event%20delegation" rel="tag">event delegation</a>, <a href="http://technorati.com/tag/jQuery" rel="tag">jQuery</a>, <a href="http://technorati.com/tag/unobtrusive%20javascript" rel="tag">unobtrusive javascript</a>
-</p>
-<!-- Technorati Tags End -->

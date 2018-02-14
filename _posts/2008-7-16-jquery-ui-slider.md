@@ -96,9 +96,3 @@ jQuery('.slider')
 </code></pre>
 <p>So there you have it, a nice clean and <strong>accessible</strong> slider solution for the folks at jquery ui to include in their demos. And for everybody else to look at and maybe even use. So have fun with it and let me know if you like it.</p><p><em>If you see any faults in the code please let me know, but as I am on holiday now, don't except me to rush...</em></p>
 <p>Here is all the demo code zip file <a href="http://www.wnas.nl/files/jquery-ui-slider/wnslider.zip" title="wn.slider.zip">wn.slider.zip</a> for you to play with.</p>
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/ajax" rel="tag">ajax</a>, <a href="http://technorati.com/tag/javascript" rel="tag">javascript</a>, <a href="http://technorati.com/tag/jquery" rel="tag">jquery</a>, <a href="http://technorati.com/tag/userinterfacedesign" rel="tag">userinterfacedesign</a>
-</p>
-<!-- Technorati Tags End -->

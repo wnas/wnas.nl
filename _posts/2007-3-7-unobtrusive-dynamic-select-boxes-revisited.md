@@ -16,8 +16,3 @@ There are two functions that are needed to make this work, first getElementsByTa
 Get the code here<a href='http://www.wnas.nl/files/unobtrusive-drop3/tools.js' title='tools'><code>tools</code></a>
 See if you can use it, but believe me, you can use it in more ways than you can think of now.
 For instance, use Ajax to fill the dropdowns, to easily drill down into loads of data, without letting your user wait.
-
-<!-- technorati tags begin -->
-<p class="tags">technorati tags:
-<a href="http://technorati.com/tag/javascript" rel="tag">javascript</a>, <a href="http://technorati.com/tag/unobtrusive" rel="tag">unobtrusive</a>, <a href="http://technorati.com/tag/css" rel="tag">css</a>, <a href="http://technorati.com/tag/html" rel="tag">html</a>, <a href="http://technorati.com/tag/internet" rel="tag">internet</a>, <a href="http://technorati.com/tag/ajax" rel="tag">ajax</a></p>
-<!-- technorati tags end -->

@@ -12,15 +12,5 @@ categories: habari
 
 
 
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/css" rel="tag">css</a>, <a href="http://technorati.com/tag/html" rel="tag">html</a>, <a href="http://technorati.com/tag/w3c" rel="tag">w3c</a>
-</p>
-<!-- Technorati Tags End -->
-<!--more-->
-
-
-
-
 <h2>NO</h2>
 <p>The answer is simple, <strong>Web is not print</strong></p>

@@ -64,8 +64,3 @@ These sources that I talk about in this piece are not the only ones of their kin
 <p><em>
 Please find your own way with these applications and use them wisely. My opinion of these is not the only, so I advise you to form your own opinion on them.
 </em></p>
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/tumblr" rel="tag">tumblr</a>, <a href="http://technorati.com/tag/twitter" rel="tag">twitter</a>, <a href="http://technorati.com/tag/wordpress" rel="tag">wordpress</a>, <a href="http://technorati.com/tag/ajax" rel="tag">ajax</a>
-</p>
-<!-- Technorati Tags End -->

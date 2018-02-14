@@ -52,9 +52,3 @@ jQuery.fn.autotab = function (){
 <h3>Enjoy</h3>
 <p>Go and get the code <a href="http://www.wnas.nl/js/plugins/autotab/autotab.js" title="autotab.js">with comments</a> here or <a href="http://www.wnas.nl/js/plugins/autotab/autotab.min.js" title="autotab.min.js">minified</a>, let me know what you think of it...</p>
 <p><em>And thanks for reading this far... :)</em></p>
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/javascript" rel="tag">javascript</a>, <a href="http://technorati.com/tag/jquery" rel="tag">jquery</a>, <a href="http://technorati.com/tag/userinterfacedesign" rel="tag">userinterfacedesign</a>
-</p>
-<!-- Technorati Tags End -->

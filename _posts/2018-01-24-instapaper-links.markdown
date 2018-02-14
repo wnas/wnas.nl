@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: instapaper
 title:  "Link bait 24-1-18"
 date:   2018-01-24 11:09:36 +0100
 categories: links

@@ -37,10 +37,3 @@ categories: habari
 <a class="vcard" href="http://feeds.technorati.com/contacts/referrer">Add to adress book</a>
 <p>In time I will write my own xslt transformation, so watch out for that.. And clean up that awfull <em>onclick=' bad javascript fu '</em>. I know I am guilty of mixing the unmixable, but hey I try to have a live beside work...</p>
 <p>Onclick is no more, the functionality is now handled by referring to another url on the microformats website, this I found at <a href="http://www.artweb-design.de/2007/3/8/technorati-s-hcard-to-vcard-service">Sven Fuch's</a> website, thank you sven.</p>
-
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/css" rel="tag">css</a>, <a href="http://technorati.com/tag/html" rel="tag">html</a>, <a href="http://technorati.com/tag/w3c" rel="tag">w3c</a>, <a href="http://technorati.com/tag/fronteers" rel="tag">fronteers</a>, <a href="http://technorati.com/tag/microformats" rel="tag">microformats</a>, <a href="http://technorati.com/tag/hcard" rel="tag">hcard</a>
-</p>
-<!-- Technorati Tags End -->

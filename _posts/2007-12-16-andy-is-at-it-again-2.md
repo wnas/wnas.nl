@@ -13,10 +13,3 @@ categories: habari
 	<li><a href="http://tinyurl.com/25pdxw">Ajaxian</a></li>
 	<li><a href="http://www.zeldman.com/2007/12/15/re-css-unworking-group/">Zeldman</a></li>
 </ul>
-
-
-<!-- Technorati Tags Start -->
-<p>Technorati Tags:
-<a href="http://technorati.com/tag/w3c" rel="tag">w3c</a>, <a href="http://technorati.com/tag/html" rel="tag">html</a>, <a href="http://technorati.com/tag/css" rel="tag">css</a>
-</p>
-<!-- Technorati Tags End -->
