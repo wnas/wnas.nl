@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "10 mistakes | Fronteers 2017 - jam session"
+date:   2018-01-29 11:09:36 +0100
+categories: links
+---
+
+In October last year I, once again, spoke at the Fronteers jam session. This time I spoke about 10 mistakes that web developers won't be making again.
+
+<img src="../images/logos/fronteers-logo.svg" alt="fronteers logo" />
+
+Or won't they...
+
+[10 mistakes on vimeo](https://vimeo.com/251649333)
+
+Now the video is online, go and watch me say 'but again' over and over...
