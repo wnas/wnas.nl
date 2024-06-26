@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: wnas.nl
+title: Wnas.nl
 email: wilfred@wnas.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Wnas.nl is my personal site. It is filled with short and long articles mostly on web development. The opinions are wholy my own and such...
+  Wnas.nl is mijn persoonlijke site. Vooral bedoeld als een stukje promotie voor mijn eenmanszaak wnas, waar ik als product owner bedrijven help met internet vraagstukken.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wnas.nl" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: wnas
-github_username:  wnas
+# github_username:  wnas
 
 # sitename.com/title/
 permalink: /:title/
