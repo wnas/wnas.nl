@@ -16,7 +16,7 @@
 title: Wnas.nl
 email: wilfred@wnas.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Wnas.nl is mijn persoonlijke site. Vooral bedoeld als een stukje promotie voor mijn eenmanszaak wnas, waar ik als product owner bedrijven help met internet vraagstukken.
+  Wnas.nl is mijn persoonlijke site.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://wnas.nl" # the base hostname & protocol for your site, e.g. http://example.com
 # github_username:  wnas
@@ -25,7 +25,7 @@ url: "http://wnas.nl" # the base hostname & protocol for your site, e.g. http://
 permalink: /:title/
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-feed
